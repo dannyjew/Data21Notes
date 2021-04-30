@@ -30,3 +30,4 @@ def write_to_file(file, order_item):
 # now lets use the two functions
 write_to_file("order.txt", "lettuce")
 open_and_print_file("order.txt")
+
